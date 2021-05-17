@@ -19,7 +19,7 @@
         android:id="@+id/etMedevac"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:hint="Enter To Do"
+        android:hint="Enter Procedures"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/btnAddToDo"
         app:layout_constraintStart_toStartOf="parent" />
@@ -28,7 +28,7 @@
         android:id="@+id/btnAddToDo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Add Button"
+        android:text="Add"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/btnDelete" />
 
